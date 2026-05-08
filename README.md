@@ -30,3 +30,6 @@ The dashboard helps analyze sales performance, profit, costs, customer orders, a
 - Total Sales
 - Total Cost
 - Profit
+## Dashboard preview
+- <img width="1442" height="814" alt="Screenshot 2026-05-08 183117" src="https://github.com/user-attachments/assets/6b36cd12-13fb-4ce4-8279-033d4bbaa4d6" />
+
